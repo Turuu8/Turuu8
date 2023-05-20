@@ -1,5 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/956767826230804480/1109384323368497162/github-header.png)
-<h1 align="center">Hi 👋, I'm Turmunkh</h1>
+![MasterHead](https://cdn.discordapp.com/attachments/956767826230804480/1109384323368497162/github-header.png)
 <h3 align="center">A passionate fullstack developer from Mongolia</h3>
 <img align="right" alt="Coding" width="400" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 
