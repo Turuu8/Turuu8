@@ -1,7 +1,7 @@
 [![Header](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Turmunkh</h1>
 <h3 align="center">A passionate fullstack developer from Mongolia</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)">
+<img align="right" alt="Coding" width="400" src="(https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turuu8&label=Profile%20views&color=0e75b6&style=flat" alt="turuu8" /> </p>
 
