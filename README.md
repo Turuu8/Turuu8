@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead]([https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47oomnml5qx77u8jfuxe7vre3he233yl0gf1xvsc78&ep=v1_gifs_related&rid=giphy.gif&ct=g))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Turmunkh</h1>
 <h3 align="center">A passionate fullstack developer from Mongolia</h3>
 
