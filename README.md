@@ -10,6 +10,8 @@
 
 - 👨‍💻 A project I've been working on on Leap2 [Mepo AF](https://mepo-af-project.vercel.app/)
 
+- 👨‍💻 A project I've been working on on Leap2 [ТЭРБУМ МОД](https://fire-leap.firebaseapp.com/index.html)
+
 - 🌱 I’m currently learning **Threejs and Gsap**
 
 - 📫 How to reach me **trmnhtr@gmail.com**
