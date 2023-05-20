@@ -1,4 +1,4 @@
-[![Header](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
+<img align="center" alt="Coding" width="400" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 <h1 align="center">Hi 👋, I'm Turmunkh</h1>
 <h3 align="center">A passionate fullstack developer from Mongolia</h3>
 <img align="right" alt="Coding" width="400" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
