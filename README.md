@@ -7,9 +7,9 @@
 
 - ⏳ I’m currently working on [UB events introduction web](https://threejs-turuu30.vercel.app/)
 
-- 🌱 I’m currently learning **Threejs and Gsap**
-
 - 👨‍💻 A project I've been working on on Leap2 [Mepo AF](https://mepo-af-project.vercel.app/)
+- 
+- 🌱 I’m currently learning **Threejs and Gsap**
 
 - 📫 How to reach me **trmnhtr@gmail.com**
 
