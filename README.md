@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turuu8&label=Profile%20views&color=0e75b6&style=flat" alt="turuu8" /> </p>
 
+- 🌱 I’m currently learning **Threejs and Gsap**
+
 - 📫 How to reach me **trmnhtr@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
