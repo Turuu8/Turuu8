@@ -6,7 +6,7 @@
 
 - ⏳ I’m currently working on [UB events web](https://event-web-kappa.vercel.app/)
 
-- ⏳ I’m currently working on [UB events introduction web](https://threejs-turuu30.vercel.app/)
+- ⏳ I’m currently working on [UB events introduction web](https://threejs-git-main-turuu8.vercel.app/)
 
 - 👨‍💻 A project I've been working on on Leap2 [Mepo AF](https://mepo-af-project.vercel.app/)
 
