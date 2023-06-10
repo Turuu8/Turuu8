@@ -12,7 +12,7 @@
 
 - 👨‍💻 A project I've been working on on Leap1 [ТЭРБУМ МОД](https://fire-leap.firebaseapp.com/index.html)
 
-- 👨‍💻 Did it out of interest website [Videinfra](https://videinfra.vercel.app/)
+- 👨‍💻 Did it out of interest website REACT [Videinfra](https://videinfra.vercel.app/)
 
 - 🌱 I’m currently learning **Threejs and Gsap**
 
