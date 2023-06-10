@@ -12,7 +12,11 @@
 
 - 👨‍💻 A project I've been working on on Leap1 [ТЭРБУМ МОД](https://fire-leap.firebaseapp.com/index.html)
 
-- 👨‍💻 Did it out of interest website (REACT used) [Videinfra](https://videinfra.vercel.app/)
+- 🌏 Did it out of interest website (REACT used) [Videinfra](https://videinfra.vercel.app/)
+
+- 🌏 Did it out of interest website (REACT used) [Apple website macbook](https://apple-mac-section.vercel.app/)
+
+- 🪐 Did it out of interest animation website (REACT used) [Apple website Iphone 14](https://i-phone-14-and-14-plus.vercel.app/)
 
 - 🌱 I’m currently learning **Threejs and Gsap**
 
