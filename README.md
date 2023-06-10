@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Threejs and Gsap**
 
-- 📫 How to reach me **trmnhtr@gmail.com**
+- 📫 How to reach me **gturmunkh30@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
