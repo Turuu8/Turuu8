@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turuu8&label=Profile%20views&color=0e75b6&style=flat" alt="turuu8" /> </p>
 
-- ⏳ I’m currently working on [UB events web](https://event-web-kappa.vercel.app/)
+- 👨‍💻 A project I've been working on on Leap3 [UB events web](https://event-web-kappa.vercel.app/)
 
-- ⏳ I’m currently working on [UB events introduction web](https://threejs-git-main-turuu8.vercel.app/)
+- 👨‍💻 A project I've been working on on Leap3 [UB events introduction web](https://threejs-git-main-turuu8.vercel.app/)
 
 - 👨‍💻 A project I've been working on on Leap2 [Mepo AF](https://mepo-af-project.vercel.app/)
 
@@ -20,7 +20,7 @@
 
 - 🪐 Did it out of interest animation website (REACT used) [Apple website Iphone 14](https://i-phone-14-and-14-plus.vercel.app/)
 
-- 🌱 I’m currently learning **Threejs and Gsap**
+- 🌱 I’m currently learning **Threejs, Gsap, Kotlin**
 
 - 📫 How to reach me **gturmunkh30@gmail.com**
 
