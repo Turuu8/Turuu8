@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turuu8&label=Profile%20views&color=0e75b6&style=flat" alt="turuu8" /> </p>
 
+- 📱 I am currently working at [Riiid](https://www.airmath.com/)
+  
 - 👨‍💻 A project I've been working on on Leap3 [UB events web](https://event-web-kappa.vercel.app/)
 
 - 👨‍💻 A project I've been working on on Leap3 [UB events introduction web](https://threejs-git-main-turuu8.vercel.app/)
@@ -24,11 +26,6 @@
 
 - 📫 How to reach me **gturmunkh30@gmail.com**
   
-<h3 align="left">I am currently working at Riiid</h3>
-<p align="left">
-<a href="https://riiid.com/" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ukoudfsor89g6dgfpove" alt="746682094754856982" height="30" width="30" /></a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/turuu_d8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="turuu_d_" height="30" width="40" /></a>
