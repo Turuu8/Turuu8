@@ -14,7 +14,7 @@
 
 - 🌏 Did it out of interest website (REACT used) [Videinfra](https://videinfra.vercel.app/)
 
-- 🌏 Did it out of interest website (NextJS_13 used) [Car Hub](https://nextjs-13-car-hub-portfolio.vercel.app/)
+- ✨ Did it out of interest website (NextJS_13 used) [Car Hub](https://nextjs-13-car-hub-portfolio.vercel.app/)
 
 - 🌏 Did it out of interest website (REACT used) [Apple website macbook](https://apple-mac-section.vercel.app/)
 
