@@ -1,7 +1,6 @@
 ![MasterHead](https://cdn.discordapp.com/attachments/956767826230804480/1109384323368497162/github-header.png)
 <h3 align="center">A passionate fullstack developer from Mongolia</h3>
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif">
-<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turuu8&label=Profile%20views&color=0e75b6&style=flat" alt="turuu8" /> </p>
 
