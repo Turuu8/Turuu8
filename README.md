@@ -20,7 +20,7 @@
 
 - 🪐 Did it out of interest animation website (REACT used) [Apple website Iphone 14](https://i-phone-14-and-14-plus.vercel.app/)
 
-- 🌱 I’m currently learning **Threejs, Gsap, Kotlin**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **gturmunkh30@gmail.com**
 
