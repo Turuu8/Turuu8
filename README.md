@@ -4,7 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turuu8&label=Profile%20views&color=0e75b6&style=flat" alt="turuu8" /> </p>
 
-- <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ukoudfsor89g6dgfpove" alt="Riiid" width="15" height="15"/>   I am currently working at **Riiid** 
+<h3 align="left">I am currently working at Riiid</h3>
+<p align="left">
+<a href="https://riiid.com/" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ukoudfsor89g6dgfpove" alt="746682094754856982" height="30" width="40" /></a>
+</p>
 
 - 👨‍💻 A project I've been working on on Leap3 [UB events web](https://event-web-kappa.vercel.app/)
 
