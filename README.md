@@ -26,7 +26,7 @@
   
 <h3 align="left">I am currently working at Riiid</h3>
 <p align="left">
-<a href="https://riiid.com/" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ukoudfsor89g6dgfpove" alt="746682094754856982" height="40" width="40" /></a>
+<a href="https://riiid.com/" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ukoudfsor89g6dgfpove" alt="746682094754856982" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
