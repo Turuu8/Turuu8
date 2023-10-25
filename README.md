@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turuu8&label=Profile%20views&color=0e75b6&style=flat" alt="turuu8" /> </p>
 
-- 📱 I am currently working at [Riiid](https://www.airmath.com/)
+- 📱 I am currently working at [AI Math](https://www.airmath.com/)
   
 - 👨‍💻 A project I've been working on on Leap3 [UB events web](https://event-web-kappa.vercel.app/)
 
