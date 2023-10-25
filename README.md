@@ -4,11 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turuu8&label=Profile%20views&color=0e75b6&style=flat" alt="turuu8" /> </p>
 
-<h3 align="left">I am currently working at Riiid</h3>
-<p align="left">
-<a href="https://riiid.com/" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ukoudfsor89g6dgfpove" alt="746682094754856982" height="40" width="40" /></a>
-</p>
-
 - 👨‍💻 A project I've been working on on Leap3 [UB events web](https://event-web-kappa.vercel.app/)
 
 - 👨‍💻 A project I've been working on on Leap3 [UB events introduction web](https://threejs-git-main-turuu8.vercel.app/)
@@ -28,6 +23,11 @@
 - 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **gturmunkh30@gmail.com**
+  
+<h3 align="left">I am currently working at Riiid</h3>
+<p align="left">
+<a href="https://riiid.com/" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ukoudfsor89g6dgfpove" alt="746682094754856982" height="40" width="40" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
