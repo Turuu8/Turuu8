@@ -10,8 +10,6 @@
   
 - 👨‍💻 A project I've been working on Leap3 [UB events web](https://event-web-kappa.vercel.app/)
 
-- 👨‍💻 A project I've been working on Leap3 [UB events introduction web](https://threejs-git-main-turuu8.vercel.app/)
-
 - 👨‍💻 A project I've been working on Leap2 [Mepo AF](https://mepo-af-project.vercel.app/)
 
 - 👨‍💻 A project I've been working on Leap1 [ТЭРБУМ МОД](https://fire-leap.firebaseapp.com/index.html)
