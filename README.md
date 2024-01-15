@@ -4,15 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turuu8&label=Profile%20views&color=0e75b6&style=flat" alt="turuu8" /> </p>
 
-- 📱 I am currently working at [AI:R Math](https://www.airmath.com/)
+- 📱 I am currently working at [About This](https://aboutthis.co.kr/)
+
+- 👨‍💻 A project I've been working on [AI:R Math](https://www.airmath.com/)
   
-- 👨‍💻 A project I've been working on on Leap3 [UB events web](https://event-web-kappa.vercel.app/)
+- 👨‍💻 A project I've been working on Leap3 [UB events web](https://event-web-kappa.vercel.app/)
 
-- 👨‍💻 A project I've been working on on Leap3 [UB events introduction web](https://threejs-git-main-turuu8.vercel.app/)
+- 👨‍💻 A project I've been working on Leap3 [UB events introduction web](https://threejs-git-main-turuu8.vercel.app/)
 
-- 👨‍💻 A project I've been working on on Leap2 [Mepo AF](https://mepo-af-project.vercel.app/)
+- 👨‍💻 A project I've been working on Leap2 [Mepo AF](https://mepo-af-project.vercel.app/)
 
-- 👨‍💻 A project I've been working on on Leap1 [ТЭРБУМ МОД](https://fire-leap.firebaseapp.com/index.html)
+- 👨‍💻 A project I've been working on Leap1 [ТЭРБУМ МОД](https://fire-leap.firebaseapp.com/index.html)
 
 - 🌏 Did it out of interest website (REACT used) [Videinfra](https://videinfra.vercel.app/)
 
