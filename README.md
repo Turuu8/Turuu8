@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turuu8&label=Profile%20views&color=0e75b6&style=flat" alt="turuu8" /> </p>
 
-- 📱 I am currently working at [Riiid](https://riiid.com/)
+- 📱 I am currently working at AOS [Riiid](https://riiid.com/)
 
-- 📱 I am currently working at [About This](https://aboutthis.co.kr/)
+- 📱 I am currently working at AOS [About This](https://aboutthis.co.kr/)
   
-- 📱 I am currently working at [Body Switch](https://bodyswitch.co.kr/)
+- 📱 I am currently working at AOS [Body Switch](https://bodyswitch.co.kr/)
 
 - 👨‍💻 A project I've been working on [AI:R Math](https://www.airmath.com/)
   
