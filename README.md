@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turuu8&label=Profile%20views&color=0e75b6&style=flat" alt="turuu8" /> </p>
 
-- 📱 I am currently working at FE [Sn phone]
+- 📱 I am currently working at FE Sn phone
 
 - 👨‍💻 Projects I worked on at AOS [AI:R Math](https://www.airmath.com/) & [About This](https://aboutthis.co.kr/) & [Body Switch](https://bodyswitch.co.kr/)
   
