@@ -10,7 +10,9 @@
   
 - 📱 I am currently working at AOS [Body Switch](https://bodyswitch.co.kr/)
 
-- 👨‍💻 Projects I worked on as aos [AI:R Math](https://www.airmath.com/), [About This](https://aboutthis.co.kr/), [Body Switch](https://bodyswitch.co.kr/)
+- 👨‍💻 Projects I worked on at AOS [AI:R Math](https://www.airmath.com/) [About This](https://aboutthis.co.kr/) [Body Switch](https://bodyswitch.co.kr/)
+  
+- 👨‍💻 Projects I worked on at FE [Riiid Webview](https://riiid.com/) [EPS Topic](https://e9test.com/)
 
 <!-- - 👨‍💻 A project I've been working on [AI:R Math](https://www.airmath.com/)
   
