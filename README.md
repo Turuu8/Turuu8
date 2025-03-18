@@ -1,18 +1,13 @@
-![MasterHead](https://cdn.discordapp.com/attachments/956767826230804480/1109384323368497162/github-header.png)
 <h3 align="center">A passionate fullstack developer from Mongolia</h3>
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turuu8&label=Profile%20views&color=0e75b6&style=flat" alt="turuu8" /> </p>
 
-- 📱 I am currently working at AOS [Riiid](https://riiid.com/)
+- 📱 I am currently working at FE [Sn phone]
 
-- 📱 I am currently working at AOS [About This](https://aboutthis.co.kr/)
+- 👨‍💻 Projects I worked on at AOS [AI:R Math](https://www.airmath.com/) & [About This](https://aboutthis.co.kr/) & [Body Switch](https://bodyswitch.co.kr/)
   
-- 📱 I am currently working at AOS [Body Switch](https://bodyswitch.co.kr/)
-
-- 👨‍💻 Projects I worked on at AOS [AI:R Math](https://www.airmath.com/) [About This](https://aboutthis.co.kr/) [Body Switch](https://bodyswitch.co.kr/)
-  
-- 👨‍💻 Projects I worked on at FE [Riiid Webview](https://riiid.com/) [EPS Topic](https://e9test.com/)
+- 👨‍💻 Projects I worked on at FE [Riiid Webview](https://riiid.com/) & [EPS Topic](https://e9test.com/)
 
 <!-- - 👨‍💻 A project I've been working on [AI:R Math](https://www.airmath.com/)
   
