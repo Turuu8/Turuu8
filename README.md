@@ -10,7 +10,9 @@
   
 - 📱 I am currently working at AOS [Body Switch](https://bodyswitch.co.kr/)
 
-- 👨‍💻 A project I've been working on [AI:R Math](https://www.airmath.com/)
+- 👨‍💻 Projects I worked on as aos [AI:R Math](https://www.airmath.com/), [About This](https://aboutthis.co.kr/), [Body Switch](https://bodyswitch.co.kr/)
+
+<!-- - 👨‍💻 A project I've been working on [AI:R Math](https://www.airmath.com/)
   
 - 👨‍💻 A project I've been working on Leap3 [UB events web](https://event-web-kappa.vercel.app/)
 
@@ -24,7 +26,7 @@
 
 - 🌏 Did it out of interest website (REACT used) [Apple website macbook](https://apple-mac-section.vercel.app/)
 
-- 🪐 Did it out of interest animation website (REACT used) [Apple website Iphone 14](https://i-phone-14-and-14-plus.vercel.app/)
+- 🪐 Did it out of interest animation website (REACT used) [Apple website Iphone 14](https://i-phone-14-and-14-plus.vercel.app/)  -->
 
 - 🌱 I’m currently learning **Kotlin**
 
